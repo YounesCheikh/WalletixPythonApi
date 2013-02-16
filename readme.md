@@ -12,6 +12,7 @@ THIS VERSION WORKS ONLY WITH Python >=2.6
 + Identify:
 
 ```
+import walletix
 w = walletix.Identify(vendorID,apiKey)
 ```
 + Generate Payment Code:
